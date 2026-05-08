@@ -1,0 +1,186 @@
+nome_municipio,abandono_geral,risco_evasao,prob_risco_modelo,pred_modelo,acerto
+Abreu e Lima,0.2,0,0.173,0,True
+Afogados da Ingazeira,0.2,0,0.513,1,False
+Afrânio,0.0,0,0.13,0,True
+Agrestina,1.9,0,0.227,0,True
+Água Preta,0.3,0,0.277,0,True
+Águas Belas,0.75,0,0.493,0,True
+Alagoinha,0.35,0,0.15,0,True
+Aliança,0.15,0,0.15,0,True
+Altinho,0.0,0,0.167,0,True
+Amaraji,0.4,0,0.307,0,True
+Angelim,0.0,0,0.46,0,True
+Araçoiaba,0.05,0,0.113,0,True
+Araripina,0.7,0,0.057,0,True
+Arcoverde,0.3,0,0.07,0,True
+Barra de Guabiraba,0.75,0,0.11,0,True
+Barreiros,0.15,0,0.19,0,True
+Belém de Maria,0.0,0,0.11,0,True
+Belém do São Francisco,0.6,0,0.227,0,True
+Belo Jardim,1.05,0,0.11,0,True
+Betânia,0.15,0,0.05,0,True
+Bezerros,0.05,0,0.15,0,True
+Bodocó,1.4500000000000002,0,0.753,1,False
+Bom Conselho,0.25,0,0.387,0,True
+Bom Jardim,0.0,0,0.157,0,True
+Bonito,0.3,0,0.087,0,True
+Brejão,3.0,1,0.803,1,True
+Brejinho,1.8,0,0.343,0,True
+Brejo da Madre de Deus,0.25,0,0.777,1,False
+Buenos Aires,0.8,0,0.227,0,True
+Buíque,0.65,0,0.513,1,False
+Cabo de Santo Agostinho,0.2,0,0.083,0,True
+Cabrobó,0.35,0,0.093,0,True
+Cachoeirinha,0.9,0,0.58,1,False
+Caetés,0.15,0,0.14,0,True
+Calçado,1.7,0,0.093,0,True
+Calumbi,0.35,0,0.11,0,True
+Camaragibe,0.2,0,0.023,0,True
+Camocim de São Félix,0.1,0,0.11,0,True
+Camutanga,0.35,0,0.177,0,True
+Canhotinho,1.55,0,0.213,0,True
+Capoeiras,0.0,0,0.337,0,True
+Carnaíba,0.35,0,0.1,0,True
+Carnaubeira da Penha,2.15,1,0.857,1,True
+Carpina,0.15,0,0.073,0,True
+Caruaru,1.15,0,0.04,0,True
+Casinhas,0.0,0,0.153,0,True
+Catende,1.2,0,0.17,0,True
+Cedro,1.25,0,0.16,0,True
+Chã de Alegria,0.2,0,0.057,0,True
+Chã Grande,0.6,0,0.16,0,True
+Condado,0.1,0,0.11,0,True
+Correntes,0.05,0,0.193,0,True
+Cortês,0.3,0,0.513,1,False
+Cumaru,0.4,0,0.14,0,True
+Cupira,0.35,0,0.077,0,True
+Custódia,0.3,0,0.303,0,True
+Dormentes,0.2,0,0.083,0,True
+Escada,0.2,0,0.107,0,True
+Exu,2.7,1,0.78,1,True
+Feira Nova,0.0,0,0.237,0,True
+Fernando de Noronha,0.0,0,0.027,0,True
+Ferreiros,0.55,0,0.38,0,True
+Flores,0.0,0,0.123,0,True
+Floresta,2.5,1,0.83,1,True
+Frei Miguelinho,1.0,0,0.16,0,True
+Gameleira,0.35,0,0.353,0,True
+Garanhuns,0.4,0,0.09,0,True
+Glória do Goitá,0.95,0,0.073,0,True
+Goiana,0.4,0,0.19,0,True
+Granito,0.0,0,0.277,0,True
+Gravatá,0.15,0,0.29,0,True
+Iati,0.0,0,0.123,0,True
+Ibimirim,0.25,0,0.17,0,True
+Ibirajuba,0.0,0,0.26,0,True
+Igarassu,0.15,0,0.04,0,True
+Iguaracy,0.0,0,0.09,0,True
+Inajá,1.4,0,0.133,0,True
+Ingazeira,0.9,0,0.073,0,True
+Ipojuca,0.5,0,0.097,0,True
+Ipubi,0.7,0,0.167,0,True
+Itacuruba,1.55,0,0.52,1,False
+Itaíba,0.85,0,0.12,0,True
+Ilha de Itamaracá,0.1,0,0.107,0,True
+Itambé,1.5,0,0.613,1,False
+Itapetim,2.0,0,0.33,0,True
+Itapissuma,0.3,0,0.263,0,True
+Itaquitinga,2.55,1,0.453,0,False
+Jaboatão dos Guararapes,0.4,0,0.037,0,True
+Jaqueira,0.8,0,0.137,0,True
+Jataúba,0.5,0,0.16,0,True
+Jatobá,0.65,0,0.233,0,True
+João Alfredo,0.0,0,0.1,0,True
+Joaquim Nabuco,0.75,0,0.487,0,True
+Jucati,0.1,0,0.16,0,True
+Jupi,0.0,0,0.113,0,True
+Jurema,0.15,0,0.463,0,True
+Lagoa do Carro,0.1,0,0.097,0,True
+Lagoa de Itaenga,0.65,0,0.243,0,True
+Lagoa do Ouro,0.0,0,0.2,0,True
+Lagoa dos Gatos,0.4,0,0.61,1,False
+Lagoa Grande,1.2,0,0.173,0,True
+Lajedo,0.8,0,0.13,0,True
+Limoeiro,0.2,0,0.05,0,True
+Macaparana,0.1,0,0.18,0,True
+Machados,0.0,0,0.113,0,True
+Manari,0.75,0,0.373,0,True
+Maraial,0.3999999999999999,0,0.277,0,True
+Mirandiba,0.15,0,0.167,0,True
+Moreno,0.35,0,0.137,0,True
+Nazaré da Mata,0.15,0,0.037,0,True
+Olinda,0.3,0,0.037,0,True
+Orobó,0.4,0,0.13,0,True
+Orocó,0.75,0,0.413,0,True
+Ouricuri,0.45,0,0.453,0,True
+Palmares,0.3,0,0.097,0,True
+Palmeirina,0.15,0,0.533,1,False
+Panelas,0.3,0,0.107,0,True
+Paranatama,2.1,1,0.75,1,True
+Parnamirim,0.4499999999999999,0,0.37,0,True
+Passira,0.15,0,0.38,0,True
+Paudalho,0.7,0,0.1,0,True
+Paulista,0.15,0,0.03,0,True
+Pedra,0.3,0,0.243,0,True
+Pesqueira,1.05,0,0.203,0,True
+Petrolândia,0.6,0,0.12,0,True
+Petrolina,0.3,0,0.09,0,True
+Poção,0.15,0,0.2,0,True
+Pombos,1.25,0,0.23,0,True
+Primavera,0.2,0,0.12,0,True
+Quipapá,1.05,0,0.103,0,True
+Quixaba,0.5,0,0.147,0,True
+Recife,0.4,0,0.013,0,True
+Riacho das Almas,0.1,0,0.13,0,True
+Ribeirão,0.25,0,0.117,0,True
+Rio Formoso,0.35,0,0.167,0,True
+Sairé,0.6,0,0.21,0,True
+Salgadinho,0.0,0,0.087,0,True
+Salgueiro,0.45,0,0.073,0,True
+Saloá,0.0,0,0.22,0,True
+Sanharó,0.25,0,0.12,0,True
+Santa Cruz,2.75,1,0.77,1,True
+Santa Cruz da Baixa Verde,1.05,0,0.087,0,True
+Santa Cruz do Capibaribe,1.9,0,0.093,0,True
+Santa Filomena,2.8,1,0.797,1,True
+Santa Maria da Boa Vista,0.25,0,0.21,0,True
+Santa Maria do Cambucá,0.95,0,0.163,0,True
+Santa Terezinha,0.95,0,0.3,0,True
+São Benedito do Sul,0.2,0,0.13,0,True
+São Bento do Una,0.05,0,0.107,0,True
+São Caitano,1.85,0,0.143,0,True
+São João,0.2,0,0.13,0,True
+São Joaquim do Monte,0.15,0,0.353,0,True
+São José da Coroa Grande,0.15,0,0.18,0,True
+São José do Belmonte,0.0,0,0.067,0,True
+São José do Egito,0.3999999999999999,0,0.06,0,True
+São Lourenço da Mata,0.9,0,0.157,0,True
+São Vicente Férrer,0.5,0,0.123,0,True
+Serra Talhada,0.4,0,0.133,0,True
+Serrita,0.5,0,0.12,0,True
+Sertânia,1.6,0,0.3,0,True
+Sirinhaém,0.05,0,0.307,0,True
+Moreilândia,0.85,0,0.187,0,True
+Solidão,0.05,0,0.14,0,True
+Surubim,0.1,0,0.33,0,True
+Tabira,0.45,0,0.28,0,True
+Tacaimbó,0.3,0,0.153,0,True
+Tacaratu,1.85,0,0.153,0,True
+Tamandaré,0.35,0,0.11,0,True
+Taquaritinga do Norte,1.5499999999999998,0,0.107,0,True
+Terezinha,0.1,0,0.497,0,True
+Terra Nova,0.0,0,0.093,0,True
+Timbaúba,0.95,0,0.073,0,True
+Toritama,0.45,0,0.42,0,True
+Tracunhaém,0.35,0,0.137,0,True
+Trindade,0.0,0,0.09,0,True
+Triunfo,0.25,0,0.097,0,True
+Tupanatinga,0.1,0,0.153,0,True
+Tuparetama,1.0499999999999998,0,0.067,0,True
+Venturosa,0.6,0,0.043,0,True
+Verdejante,0.75,0,0.123,0,True
+Vertente do Lério,0.1,0,0.1,0,True
+Vertentes,0.5,0,0.103,0,True
+Vicência,0.4,0,0.06,0,True
+Vitória de Santo Antão,1.0,0,0.09,0,True
+Xexéu,0.15,0,0.273,0,True

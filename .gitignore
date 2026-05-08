@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# SO / Jupyter
+.DS_Store
+.ipynb_checkpoints/
+
+# Arquivos > 100 MB — o GitHub recusa push (use Git LFS ou mantenha só local)
+data/raw/microdados_ed_basica_2024.csv
+models/modelo_final_rf.joblib
