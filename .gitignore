@@ -14,5 +14,4 @@ wheels/
 .ipynb_checkpoints/
 
 # Arquivos > 100 MB — o GitHub recusa push (use Git LFS ou mantenha só local)
-data/raw/microdados_ed_basica_2024.csv
 models/modelo_final_rf.joblib
